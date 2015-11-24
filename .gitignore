@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VS / NTVS stuff
 *.dat
 *.suo
@@ -5,6 +6,8 @@ bin
 obj
 
 
+=======
+>>>>>>> af2084df133bd33e9ed44b239cab87a28c9f9cb8
 # Logs
 logs
 *.log
